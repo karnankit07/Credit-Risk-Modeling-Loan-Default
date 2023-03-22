@@ -1,3 +1,4 @@
+![What-is-Credit-Risk-Modeling](https://user-images.githubusercontent.com/57935250/226844021-ec7c5b2d-ca13-49e3-8a03-e4449c91cf43.jpg)
 
 # Credit Risk Modeling
 
